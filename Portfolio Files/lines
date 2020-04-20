@@ -1,0 +1,569 @@
+    <html>
+  <head>
+    <title>PHP Test</title>
+  </head>
+  <body>
+    <?php echo '<p>Hello World! Here are all of my Links: Joshua Ganapavarapu, Period 1</p>'; ?> 
+    <ul>
+      <li><a href="index.html">index.html</a></li></br>
+      <!-- Please make sure to change all the #'s to the proper link names-->
+      <li><a href="Ganapavarapu_AboutMe.html">AboutMe.html</a></li></br>
+      <li><a href="Ganapavarapu_Projects.html">Projects.html</a></li></br>
+      <li><a href="Ganapavarapu_Resume.html">Resume.html</a></li></br>
+      <li><a href="Ganapavarapu_ContactMe.html">ContactMe.html</a></li></br>
+   <ul>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"><title></title>
+      
+      
+    <link href="./Bootstrap_4.3.1/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    
+  </head>
+  <body> 
+   <div class = "container">
+    <nav class="nav nav-pills nav-fill">
+      <a class= "nav-item nav-link" href="index.html">Home</a>
+      <a class= "nav-item nav-link active" href="Ganapavarapu_AboutMe.html">About Me</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_Projects.html">Projects</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_Resume.html">Resume</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_ContactMe.html">Contact Me</a>
+    </nav>
+
+
+<div class="jumbotron text-left">
+  <h1><strong>Online Portfolio</strong></h1>
+    <h2>Joshua Ganapavarapu</h2>
+      <section class="main">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-4">
+              </div>
+              </div class="col-md-8">
+              <p>I am <strong>Joshua Ganapavarapu</strong>, and I am a programmer. I am a freshman at Dublin High, and currently taking <i>Computer Science Principles 1</i>...</p>
+              <a href="Ganapavarapu_AboutMe.html">
+                <p>Learn about me here...</p>
+              </a>
+          </div>
+            </div>
+          </div>
+        </div>
+      <section>
+
+
+  </div>
+<div class="container">
+  <h3>About Me</h3>
+</div>
+    <img src="" class="img-thumbnail">
+       <div class = "container">
+         <div class="container">
+           <img src="j0shua.png" alt="huh.png" align="left" >     
+          </div>
+<p>I am <strong>Joshua Ganapavarapu</strong>, and I am a programmer. I am a freshman at Dublin High, and currently taking <i>Computer Science Principles 1</i>. I work with HTML and CSS, and this website that you are on right now is a product of my coding. I aspire to be a Computer Software Engineer for Gaming Graphics.</p>
+
+<p>My first steps in computer programming started back in 3rd and 4th grade, when I took MindStorm Robotics classes. It introduced me to motors and hardware, along with coding blocks for the software part.</p>
+
+<p>During the summer leading up to my 5th grade, I took my first programming course. It was on Khan Academy, focusing on JavaScript, specifically <i>Proccesing.JS</i>. Apart from the course exercises, I would make my own fun mini games using the JS I knew.</p>
+
+<p><i>One program that I built made it to this list on Khan Academy of the top computer programs for the day, called the Hot list.</i> It was a non-interactive program that threw geometric 3d shapes across the screen and made them bounce against the screen and it's dimensions. You can find it in my projects page. My program was presented to some MS students at a Professional Web Developer Class run by my dad, and the students were impressed by that work of an early 5th grader.</p>
+
+<p>Back in 7th grade, I took a class called Design and Modeling, which is a computer graphic design class. I used a software called SketchUp (similar to AutoDesk Inventor) to design models of shapes to guide build/sculpt components that make-up final product.</p>
+
+<p>In 2020, I look forward to enhancing my graphics programming skills and learning new ones on MatLab and OpenGL. I also hope to improve my Python programming skills and make new ones on Codecademy</p>
+
+<p>When not programming, I enjoy gaming, playing basketball and hanging out with my friends. I am also a fast swimmer and qualified for competitive swimming a few years back, but did not pursue it. Over the summer, I traveled to Hawaii with my family and swam in the beaches.</p>
+
+       </div>
+
+
+       
+<div class="container">       
+  <footer class="jumbotron">
+    <div>
+      <div class="row" stlye="max-height:250px">
+        <div class="col-12">
+          <a href="https://www.instagram.com/_j0shg/">
+            <img src="downloadg.jpg" style="max-width:250px" class="float-center">
+         </a>
+          <a href="mailto:ganapavarapu.family@gmail.com">
+           <img src="gmailmail.jpg" style="max-width:250px" class="float-center">
+         </a>
+         <a href="https://www.dublin.k12.ca.us/dhs">
+           <img src="huh.png" style="max-width:200px" class="float-right">
+         </a>
+       </div>
+      </div>
+   </div>
+  </footer>
+</div>
+
+
+
+  </body>
+</html><!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"><title></title>
+      
+      
+    <link href="./Bootstrap_4.3.1/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    
+  </head>
+  <body> 
+   <div class = "container">
+    <nav class="nav nav-pills nav-fill">
+      <a class= "nav-item nav-link" href="index.html">Home</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_AboutMe.html">About Me</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_Projects.html">Projects</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_Resume.html">Resume</a>
+      <a class= "nav-item nav-link active" href="Ganapavarapu_ContactMe.html">Contact Me</a>
+    </nav>
+
+
+<div class="jumbotron text-left">
+  <h1><strong>Online Portfolio</strong></h1>
+    <h2>Joshua Ganapavarapu</h2>
+      <section class="main">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-4">
+              </div>
+              </div class="col-md-8">
+              <p>I am <strong>Joshua Ganapavarapu</strong>, and I am a programmer. I am a freshman at Dublin High, and currently taking <i>Computer Science Principles 1</i>...</p>
+           <a href="Ganapavarapu_AboutMe.html">
+                <p>Learn about me here...</p>
+              </a>      
+              </div>
+            </div>
+          </div>
+        </div>
+      <section>
+
+
+
+
+  <div class="container">
+    <h2>
+    Contact Me
+    </h2>
+  </div>
+        <footer class="container">
+          <div class="jumbotron">
+            <div class="row">
+              <div class="col-3">
+                <h1>Dublin, California</h1>
+                <a href='mailto:ganapavarapu5183@mydusd.org'>
+                  <h5>
+                    Email Me: ganapavarapu5183@mydusd.org
+                  </h5>
+                </a>  
+              </div>
+            </div>
+          </div>
+        </footer>         
+
+<div class="container">       
+  <footer class="jumbotron">
+    <div>
+      <div class="row" stlye="max-height:250px">
+        <div class="col-12">
+          <a href="https://www.instagram.com/_j0shg/">
+            <img src="downloadg.jpg" style="max-width:250px" class="float-center">
+         </a>
+          <a href="mailto:ganapavarapu.family@gmail.com">
+           <img src="gmailmail.jpg" style="max-width:250px" class="float-center">
+         </a>
+         <a href="https://www.dublin.k12.ca.us/dhs">
+           <img src="huh.png" style="max-width:200px" class="float-right">
+         </a>
+       </div>
+      </div>
+   </div>
+  </footer>
+</div>
+
+
+
+   
+
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="./Bootstrap_4.3.1/css/bootstrap.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  <div class = "container">
+      <nav class="nav nav-pills nav-fill">
+        <a class= "nav-item nav-link" href="index.html">Home</a>
+        <a class= "nav-item nav-link" href="Ganapavarapu_AboutMe.html">About Me</a>
+        <a class= "nav-item nav-link active" href="Ganapavarapu_Projects.html">Projects</a>
+        <a class= "nav-item nav-link" href="Ganapavarapu_Resume.html">Resume</a>
+        <a class= "nav-item nav-link" href="Ganapavarapu_ContactMe.html">Contact Me</a>
+      </nav>
+    </div>
+
+
+<div class="container">
+<div class="jumbotron text-left">
+  <h1><strong>Online Portfolio</strong></h1>
+    <h2>Joshua Ganapavarapu</h2>
+      <section class="main">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-4">
+              </div>
+              </div class="col-md-8">
+              <p>I am <strong>Joshua Ganapavarapu</strong>, and I am a programmer. I am a freshman at Dublin High, and currently taking <i>Computer Science Principles 1</i>...</p>
+           <a href="Ganapavarapu_AboutMe.html">
+                <p>Learn about me here...</p>
+              </a>        
+              </div>
+            </div>
+          </div>
+        </div>
+      <section>
+
+ <div class="container">       
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">                   
+          <img class="card-img-right" style="max-width:250px; max-height:250px" src="ai2.png" alt="Card image">
+        <h5 class="card-title">MIT App Inventor Project</h5>
+           <p>The HTML & CSS quiz practice app is an app that a partner and I created for our CSP 1 class to help other students study for the weekly HTML/CSS quiz in that specific class. This app was created in MIT App Inventor Version 2, and was made for academic purposes, not entertainment, such as a game, but as a preparation method.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+
+        <img class="card-img-right" style="max-width:250px; max-height:250px" src="khan'.png" alt="Card image">
+        <h5 class="card-title" style="">ProcessingJS Project</h5>
+        <p class="card-text">Bouncing Geometric Shapes</p>
+        <a href="https://docs.google.com/document/d/1KG8S6NU0oD-Zv1Vc1fAxzzO3KElUVJoH2Xpm8OMdvmg/edit?usp=sharing" class="btn btn-primary">Read the Code</a>
+        <a href="https://www.khanacademy.org/computer-programming/bouncing-geo-shapes-3d/6247994097631232" class="btn btn-primary">View This Project</a>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">         
+               
+        <iframe src="https://scratch.mit.edu/projects/328018811/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>  
+     
+        <h5 class="card-title">Scratch Project</h5>
+        <p>The Water & Fire Platformer Game was a program made for time pass or for when someone is bored. The game is about a water spirit trying to get to its home on the beach, but it is stuck in a Volcano. In each of the three total levels, the user must make the sprite get a magical key to get to the next level, and from there the key transforms into a wizard to help you get out of the volcano and complete the game.</p>
+
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <img class="card-img-right" style="max-width:250px; max-height:250px" src="shapes.png.png"  alt="image">
+        <h3>Graphics Test JS</h3>  
+        <p class="card-text">A test I did in Processing Java Script three years ago, expirementing with shapes and colors to make characters.</p>
+        <a href="https://docs.google.com/document/d/1c-t-s-HLxTqNuvNkSQu832XzqmMAGDtOhIc2-fSFgzQ/edit?usp=sharing" class="btn btn-primary">Read the code</a>
+         <a href="https://www.khanacademy.org/computer-programming/new-program/5154780388655104" class="btn btn-primary">View The Project</a>
+      </div>
+    </div>
+  </div>
+</div>
+  
+ </div>
+
+
+<div class="container">       
+  <footer class="jumbotron">
+    <div>
+      <div class="row" stlye="max-height:250px">
+        <div class="col-12">
+          <a href="https://www.instagram.com/_j0shg/">
+            <img src="downloadg.jpg" style="max-width:250px" class="float-center">
+         </a>
+          <a href="mailto:ganapavarapu.family@gmail.com">
+           <img src="gmailmail.jpg" style="max-width:250px" class="float-center">
+         </a>
+         <a href="https://www.dublin.k12.ca.us/dhs">
+           <img src="huh.png" style="max-width:200px" class="float-right">
+         </a>
+       </div>
+      </div>
+   </div>
+  </footer>
+</div>
+
+
+
+</div>
+
+
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"><title></title>
+      
+      
+    <link href="./Bootstrap_4.3.1/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    
+  </head>
+  <body> 
+   <div class = "container">
+    <nav class="nav nav-pills nav-fill">
+      <a class= "nav-item nav-link" href="index.html">Home</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_AboutMe.html">About Me</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_Projects.html">Projects</a>
+      <a class= "nav-item nav-link active" href="Ganapavarapu_Resume.html">Resume</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_ContactMe.html">Contact Me</a>
+    </nav>
+
+
+<div class="jumbotron text-left">
+  <h1><strong>Online Portfolio</strong></h1>
+    <h2>Joshua Ganapavarapu</h2>
+      <section class="main">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-4">
+              </div>
+              </div class="col-md-8">
+              <p>I am <strong>Joshua Ganapavarapu</strong>, and I am a programmer. I am a freshman at Dublin High, and currently taking <i>Computer Science Principles 1</i>...</p>
+            <a href="Ganapavarapu_AboutMe.html">
+                <p>Learn about me here...</p>
+              </a>
+          </div>
+            </div>
+          </div>
+        </div>
+      <section>
+
+
+  </div>
+<div class="container">
+  <h3>Resume</h3>
+</div>
+    <div class = "container">
+<h2>Education</h2>
+	<ul>
+		<li> Centerville Middle School - AUG 2017 to JUN 2018</li>
+		<li> Fallon Middle School - AUG 2018 to MAY 2019</li>
+		<li> Dublin High School - AUG 2019 to MAY 2023 (ongoing)</li>
+	</ul>
+
+<h2>Courses</h2>
+<div class="container">
+  <h3>Technological</h3>
+
+	<ul>
+		<li> Design and Modeling (using Graphic Design) - AUG 2017 to DEC 2018</li>
+		<li> Intro to Computer Science - JAN 2018 to MAY 2019	</li>
+		<li> Computer Science Principles 1 - AUG 2019 to MAY 2020 (ongoing)</li>
+		<li> MindStorm Robotics  I - JAN 2013 to JUN 2014</li>
+		<li> MindStorm Robotics II - JAN 2014 to JUN 2015</li>
+	</ul>
+
+</div>
+
+<div class="container">
+  <h3>Non-Technological</h3>
+
+  <ul>
+		<li> Woodshop 1 - 2017 to 2018</li>
+	</ul>
+
+</div>
+
+<h2>Skills</h2>	
+<div class="container">
+  <h3>Technological</h3>
+
+	<ul>
+		<li> HTML</li>
+		<li> CSS</li>
+		<li> JavaScript</li>
+		<li> Python</li>
+		<li> Analytical with numbers and concepts</li>
+	</ul>
+	
+</div>
+
+<div class="container">
+  <h3>Non-Technological</h3>
+
+	<ul>
+		<li> Proficient Swimmer, qualified for competive, did not pursue it though.</li>
+		<li> Able to make objects out of wood, with engravings, when given the proper tools.</li>
+		<li> 75 words per minute while typing</li>
+		<li> 175 words per minute reading</li>
+	</ul>
+
+</div>
+
+<div class="container">
+  <h2>Languages</h2>	
+
+	<ul>
+		<li> English, fluent</li>
+		<li> French, semi-fluent - learning reading, writing, speaking</li>
+		<li> Telugu - speaking</li>
+	</ul>
+        </p>
+       </div>
+</div>
+
+
+<div class="container">       
+  <footer class="jumbotron">
+    <div>
+      <div class="row" stlye="max-height:250px">
+        <div class="col-12">
+          <a href="https://www.instagram.com/_j0shg/">
+            <img src="downloadg.jpg" style="max-width:250px" class="float-center">
+         </a>
+          <a href="mailto:ganapavarapu.family@gmail.com">
+           <img src="gmailmail.jpg" style="max-width:250px" class="float-center">
+         </a>
+         <a href="https://www.dublin.k12.ca.us/dhs">
+           <img src="huh.png" style="max-width:200px" class="float-right">
+         </a>
+       </div>
+      </div>
+   </div>
+  </footer>
+</div>
+
+
+
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+     
+    <link href="./Bootstrap_4.3.1/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+  </head>
+
+
+  
+<body> 
+  <div class = "container">
+    <nav class="nav nav-pills nav-fill">
+      <a class= "nav-item nav-link active" href="index.html">Home</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_AboutMe.html">About Me</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_Projects.html">Projects</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_Resume.html">Resume</a>
+      <a class= "nav-item nav-link" href="Ganapavarapu_ContactMe.html">Contact Me</a>
+    </nav>
+  </div>
+
+<div class="container">
+<div class="jumbotron text-left">
+  <h1><strong>Online Portfolio</strong></h1>
+    <h2>Joshua Ganapavarapu</h2>
+      <section class="main">
+          <div class="container">
+            <div class="row" class="col-md-4">
+            </div>
+              </div class="col-md-8">
+              <p>I am <strong>Joshua Ganapavarapu</strong>, and I am a programmer. I am a freshman at Dublin High, and currently taking <i>Computer Science Principles 1</i>...</p>
+               <a href="Ganapavarapu_AboutMe.html">
+                <p>Learn about me here...</p>
+              </a>
+          </div>
+            </div>
+          </div>
+        </div>
+      <section>
+ <div class="container">       
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">                   
+        <img class="card-img-right" style="max-width:250px; max-height:250px" src="j0shua.png"  alt="image">
+        <h3><strong>About Me</strong></h3>  
+        <p class="card-text"><strong>I am Joshua Ganapavarapu,</strong> and I am a programmer. I am a freshman at Dublin High, and currently taking Computer Science Principles 1. I work with...</p>
+        <p class="card-text"></p>
+        <a href="Ganapavarapu_AboutMe.html" class="btn btn-primary">Read More</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+      
+              <img class="card-img-right" style="max-width:250px; max-height:250px" src="khan'.png" alt="Card image">
+              <h5 class="card-title" style="">ProcessingJS Project</h5>
+              <p class="card-text">Bouncing Geometric Shapes</p>
+              <a href="https://docs.google.com/document/d/1KG8S6NU0oD-Zv1Vc1fAxzzO3KElUVJoH2Xpm8OMdvmg/edit?usp=sharing" class="btn btn-primary">Read the Code</a>
+              <a href="https://www.khanacademy.org/computer-programming/bouncing-geo-shapes-3d/6247994097631232" class="btn btn-primary">View This Project</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">         
+    <img class="card-img-right" style="max-width:250px; max-height:250px" src="resume.jpg" alt="Card image">
+        <h5 class="card-title">Resume</h5>
+        <p class="card-text">Read about my experience here!</p>
+        <a href="Ganapavarapu_Resume.html" class="btn btn-primary">Read More</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+         <img class="card-img-right" style="max-width:250px; max-height:250px" src="ai2.png" alt="Card image">
+         <h5 class="card-title">MIT App Inventor Project</h5>
+         <p class="card-text">The HTML & CSS quiz practice app is an app that a partner and I created for our CSP 1 class to help other students study for the weekly HTML/CSS quiz in that specific class. This app...</p>
+      </div>
+    </div>
+  </div>
+</div>
+  
+ </div>
+
+</div>
+<div class="container">       
+  <footer class="jumbotron">
+    <div>
+      <div class="row" stlye="max-height:250px">
+        <div class="col-12">
+          <a href="https://www.instagram.com/_j0shg/">
+            <img src="downloadg.jpg" style="max-width:250px" class="float-center">
+         </a>
+          <a href="mailto:ganapavarapu.family@gmail.com">
+           <img src="gmailmail.jpg" style="max-width:250px" class="float-center">
+         </a>
+         <a href="https://www.dublin.k12.ca.us/dhs">
+           <img src="huh.png" style="max-width:200px" class="float-right">
+         </a>
+       </div>
+      </div>
+   </div>
+  </footer>
+</div>
+
+
+
+  </body>
+</html>
